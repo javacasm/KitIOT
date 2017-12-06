@@ -26,6 +26,9 @@ Toda la información así como el control está disponible desde Internet
 
 Usaremos el [kit tecnológico para IOT en Smart Cities](http://inven.es/nuestros-kits/600-inven-kit-tecnologico-de-smart-cities-iot.html) y [el kit básico   ](http://inven.es/nuestros-kits/599-inven-kit-tecnologico-de-smart-cities-iot-basico.html)
 
+
+![kit IOT](http://mul2.inven.es/2041-large_default/inven-kit-tecnologico-de-smart-cities-iot.jpg)
+
 * Controlador
 * Sensores (cualquiera entre:luz,temperatura, humedad,...)
 * Wifi
