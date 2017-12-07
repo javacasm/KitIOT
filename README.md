@@ -141,6 +141,6 @@ Mejoras:
 
 ![Combinación de los colores](https://i0.wp.com/miescapedigital.com/wp-content/uploads/2017/06/rgb1.png)
 
-## [Contenido Kit](https://github.com/javacasm/SmartCities_Comunes/blob/master/Kit.md)
+## [Contenido Kit](./Kit.md)
 
 ## [Código de la librería](https://github.com/javacasm/SmartCities_Library/archive/SmartCities.zip)
